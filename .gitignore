@@ -1,0 +1,7 @@
+.venv/
+.env
+makefile
+my_account.session
+.idea/
+users.db
+my_account.session-journal
